@@ -77,7 +77,7 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
                             onClick={() => setIsOpen(!isOpen)}
                             className="flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors"
                         >
-                            {isOpen ? "Hide Details" : "View Case Study"}
+                            {isOpen ? "Hide Details" : "View Details"}
                             <ChevronDown className={`transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`} size={18} />
                         </button>
                     </div>
