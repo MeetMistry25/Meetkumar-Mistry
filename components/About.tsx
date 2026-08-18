@@ -20,7 +20,7 @@ export default function About() {
                         </h2>
                         <div className="space-y-4 text-zinc-400 leading-relaxed">
                             <p>
-                                I am a final-year Computer Engineering student with a deep focus on building
+                                I am a Computer Engineer with a deep focus on building
                                 <span className="text-zinc-100 font-medium"> secure, scalable, and production-ready applications</span>.
                                 Unlike typical juniors, I prioritize system architecture, data integrity, and performance optimization.
                             </p>
@@ -30,7 +30,7 @@ export default function About() {
                                 implementing strict <span className="text-zinc-100 font-medium">JWT & RBAC</span> security protocols, I engineer software that is robust and reliable.
                             </p>
                             <p>
-                                I am actively seeking <span className="text-white font-medium">Backend or Full Stack Engineering roles</span> where
+                                I am actively seeking <span className="text-white font-medium">Frontend or Full Stack Engineering roles</span> where
                                 I can leverage my expertise in <span className="text-primary">.NET Core</span> and <span className="text-primary">MERN stack</span> to solve real-world technical challenges.
                             </p>
                         </div>
