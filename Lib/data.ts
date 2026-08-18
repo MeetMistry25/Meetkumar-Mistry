@@ -164,7 +164,7 @@ export const EXPERIENCES = [
         id: 1,
         title: "Web Development Intern",
         company: "Outamation Technologies",
-        period: "Sep 2025 - Present",
+        period: "Sep 2025 - Mar 2026",
         description: "Spearheading the development of 'AcademiaPlus', an enterprise-grade course management system. Engineered the ASP.NET Core backend architecture and implemented secure JWT authentication. Optimized frontend performance using Angular 17's latest features."
     },
     {
@@ -172,6 +172,6 @@ export const EXPERIENCES = [
         title: "B.Tech in Computer Engineering",
         company: "Indus University",
         period: "2022 - 2026",
-        description: "Maintained a strong CGPA of 8.83/10. Specializing in Advanced Web Engineering, Database Management Systems, and Object-Oriented Software Design."
+        description: "Maintained a strong CGPA of 9.03/10. Specializing in Advanced Web Engineering, Database Management Systems, and Object-Oriented Software Design."
     }
 ];
